@@ -10,7 +10,8 @@ namespace C01_BT01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" Hello Worl");
+            Console.WriteLine(" Hello Worl! ");
+            Console.WriteLine(" Phiên bản mới! ");
             Console.ReadLine();
         }
     }
