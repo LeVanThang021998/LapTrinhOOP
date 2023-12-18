@@ -1,0 +1,7 @@
+D:\LeVanThang_TH1\MaNguon\C01_BT01\C01_BT01\bin\Debug\C01_BT01.exe.config
+D:\LeVanThang_TH1\MaNguon\C01_BT01\C01_BT01\bin\Debug\C01_BT01.exe
+D:\LeVanThang_TH1\MaNguon\C01_BT01\C01_BT01\bin\Debug\C01_BT01.pdb
+D:\LeVanThang_TH1\MaNguon\C01_BT01\C01_BT01\obj\Debug\C01_BT01.csproj.AssemblyReference.cache
+D:\LeVanThang_TH1\MaNguon\C01_BT01\C01_BT01\obj\Debug\C01_BT01.csproj.CoreCompileInputs.cache
+D:\LeVanThang_TH1\MaNguon\C01_BT01\C01_BT01\obj\Debug\C01_BT01.exe
+D:\LeVanThang_TH1\MaNguon\C01_BT01\C01_BT01\obj\Debug\C01_BT01.pdb
